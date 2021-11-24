@@ -1,0 +1,32 @@
+body, html {
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background: url("../images/fondo.jpg");
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+}
+
+h1{
+    font-family: 'Alegreya', serif;
+    color: #d8b307;
+}
+
+p {
+    color: #fff;
+}
+
+.logo{
+    height: 40px;
+    margin-top: 20px;
+}
+
+a .fab {
+    color: #d8b307;
+    font-size: 35px;
+    margin: 0 10px;
+}
