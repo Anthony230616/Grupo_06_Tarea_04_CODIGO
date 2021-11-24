@@ -6,5 +6,5 @@
 #Tarea 04
 
 #1. José Danilo Collahuazo Collahuazo
-#2. Christopher Lizardo Ramos Espinosa
-#3. Kevin Anthony Sigcha Jacome
+2. Christopher Lizardo Ramos Espinosa
+3. Kevin Anthony Sigcha Jacome
